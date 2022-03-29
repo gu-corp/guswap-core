@@ -1,11 +1,10 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
+  "name": "@gulabs/v2-core",
+  "description": "🎛 Core contracts for the G.U.Swap protocol",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/gulabs/v2-core"
   },
   "keywords": [
     "uniswap",
@@ -44,5 +43,8 @@
     "test": "mocha",
     "prepublishOnly": "yarn test"
   },
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "scrypt": "^6.0.3"
+  }
 }
