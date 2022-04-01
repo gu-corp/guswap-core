@@ -1,10 +1,10 @@
 {
-  "name": "@gulabs/v2-core",
+  "name": "@gulabs/guswap-core",
   "description": "🎛 Core contracts for the G.U.Swap protocol",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gulabs/v2-core"
+    "url": "https://github.com/gulabs/guswap-core"
   },
   "keywords": [
     "uniswap",
